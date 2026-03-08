@@ -26,9 +26,6 @@
 
 ## 🔗 Links & Contacts
 - 📧 **Email** : dntjr8106@gmail.com
-- 📄 **Portfolio** : [노션 포트폴리오 보러가기](여기에_노션_포트폴리오_링크_붙여넣기)
 
 <br>
 
-## 📊 GitHub Stats
-![우석님의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=wooseok718&show_icons=true&theme=radical)

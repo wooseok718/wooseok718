@@ -3,8 +3,6 @@
 
 <br>
 
-### 🛠 Tech Focus
-`Data Integrity` `CQRS Pattern` `Backend Architecture` `API Standardization`
 
 <br>
 
@@ -16,6 +14,6 @@
 <br>
 
 ### 🔗 More About Me
-- 📧 **Email** : dntjr8106@gmail.com
+- **Email** : dntjr8106@gmail.com
 
 <br>

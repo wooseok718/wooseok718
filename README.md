@@ -14,6 +14,6 @@
 <br>
 
 ### 🔗 More About Me
-- **Email** : dntjr8106@gmail.com
+- **Email** : dev.wooseok718@gmail.com
 
 <br>
